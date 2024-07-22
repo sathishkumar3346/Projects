@@ -1,0 +1,33 @@
+.navbar-nav .nav-link {
+    color: white;
+    margin-right: 10px;
+  }
+  .btn-outline-light {
+    color: white;
+    border-color: white;
+  }
+  .btn-primary {
+    background-color: #1732e0;
+    border-color: #4a56a6;
+  }
+#midle{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    border: 2px solid rgb(211, 211, 230);
+    /* font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    background-color: rgb(211, 211, 230);
+}  
+#text{
+    margin-top: 80px;
+    
+}
+
+
+#link-a:hover{
+  text-decoration: underline !important;
+}
+#sin:hover{
+  background: #faf7f7;
+}

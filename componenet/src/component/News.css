@@ -1,0 +1,9 @@
+div{
+  text-align: center;
+  background-color: aqua;
+  border-radius: 20px;
+  /* width: 50%; */
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+}
